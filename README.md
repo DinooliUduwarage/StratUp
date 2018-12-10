@@ -1,2 +1,2 @@
-# StratUp
-this is just an overview
+# Laravel Restful API
+with CRUD functionality
